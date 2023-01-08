@@ -1,8 +1,6 @@
-# Nodeapp
+# NodeApp
 
 API made for create ads, designed with Node.js and MongoDB.
-
-# NodeApp
 
 Deploy:
 npm install
